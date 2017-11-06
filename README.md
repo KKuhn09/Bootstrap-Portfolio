@@ -1,4 +1,4 @@
-# Bootstrap-Portfolio
+# Bootstrap Portfolio
 
 ## Portfolio template with About, Portfolio, and Contact pages updated to use Twitter Bootstrap styling.
 
